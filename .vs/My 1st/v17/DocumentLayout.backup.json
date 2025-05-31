@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\my doc\\test\\My 1st\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9091E027-C805-4B8B-ABF4-54A0208172D4}|My 1st\\My 1st.vcxproj|H:\\my doc\\test\\My 1st\\My 1st\\My 1st.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9091E027-C805-4B8B-ABF4-54A0208172D4}|My 1st\\My 1st.vcxproj|solutionrelative:My 1st\\My 1st.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091E027-C805-4B8B-ABF4-54A0208172D4}|My 1st\\My 1st.vcxproj|H:\\my doc\\test\\My 1st\\My 1st\\OutPutFormat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9091E027-C805-4B8B-ABF4-54A0208172D4}|My 1st\\My 1st.vcxproj|solutionrelative:My 1st\\OutPutFormat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutPutFormat.h",
+              "DocumentMoniker": "H:\\my doc\\test\\My 1st\\My 1st\\OutPutFormat.h",
+              "RelativeDocumentMoniker": "My 1st\\OutPutFormat.h",
+              "ToolTip": "H:\\my doc\\test\\My 1st\\My 1st\\OutPutFormat.h",
+              "RelativeToolTip": "My 1st\\OutPutFormat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:22:58.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "My 1st.cpp",
+              "DocumentMoniker": "H:\\my doc\\test\\My 1st\\My 1st\\My 1st.cpp",
+              "RelativeDocumentMoniker": "My 1st\\My 1st.cpp",
+              "ToolTip": "H:\\my doc\\test\\My 1st\\My 1st\\My 1st.cpp",
+              "RelativeToolTip": "My 1st\\My 1st.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T23:30:41.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
