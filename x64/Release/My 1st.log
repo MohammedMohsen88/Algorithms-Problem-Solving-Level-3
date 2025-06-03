@@ -1,8 +1,0 @@
-﻿  Mohammed.cpp
-  My 1st.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-H:\my doc\test\My 1st\My 1st\My 1st.cpp(91): warning C4715: 'Who_Won_The_Round': not all control paths return a value
-  All 133 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  My 1st.vcxproj -> H:\my doc\test\My 1st\x64\Release\My 1st.exe
