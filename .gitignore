@@ -1,0 +1,28 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Build results
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.cache
+*.aps
+
+# Folders to ignore
+x64/
+Debug/
+Release/
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
